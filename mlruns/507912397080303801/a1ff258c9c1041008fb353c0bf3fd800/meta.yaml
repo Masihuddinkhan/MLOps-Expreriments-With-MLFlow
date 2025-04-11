@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/MLOps-Expreriments-With-MLFlow/mlruns/507912397080303801/a1ff258c9c1041008fb353c0bf3fd800/artifacts
+end_time: 1744387464380
+entry_point_name: ''
+experiment_id: '507912397080303801'
+lifecycle_stage: active
+run_id: a1ff258c9c1041008fb353c0bf3fd800
+run_name: bustling-shad-607
+run_uuid: a1ff258c9c1041008fb353c0bf3fd800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744387463988
+status: 3
+tags: []
+user_id: '91844'

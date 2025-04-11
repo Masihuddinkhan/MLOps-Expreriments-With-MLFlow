@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/MLOps-Expreriments-With-MLFlow/mlruns/507912397080303801/83ef099a7c064200af4ed1f61afe0cd2/artifacts
+end_time: 1744387465028
+entry_point_name: ''
+experiment_id: '507912397080303801'
+lifecycle_stage: active
+run_id: 83ef099a7c064200af4ed1f61afe0cd2
+run_name: judicious-snake-742
+run_uuid: 83ef099a7c064200af4ed1f61afe0cd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744387464826
+status: 3
+tags: []
+user_id: '91844'

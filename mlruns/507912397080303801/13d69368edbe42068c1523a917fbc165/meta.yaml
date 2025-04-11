@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/MLOps-Expreriments-With-MLFlow/mlruns/507912397080303801/13d69368edbe42068c1523a917fbc165/artifacts
+end_time: 1744387463926
+entry_point_name: ''
+experiment_id: '507912397080303801'
+lifecycle_stage: active
+run_id: 13d69368edbe42068c1523a917fbc165
+run_name: legendary-shrimp-799
+run_uuid: 13d69368edbe42068c1523a917fbc165
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744387462799
+status: 3
+tags: []
+user_id: '91844'

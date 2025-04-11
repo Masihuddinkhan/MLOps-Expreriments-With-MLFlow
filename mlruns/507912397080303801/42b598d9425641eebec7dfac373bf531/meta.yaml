@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/MLOps-Expreriments-With-MLFlow/mlruns/507912397080303801/42b598d9425641eebec7dfac373bf531/artifacts
+end_time: 1744387492219
+entry_point_name: ''
+experiment_id: '507912397080303801'
+lifecycle_stage: active
+run_id: 42b598d9425641eebec7dfac373bf531
+run_name: respected-mink-335
+run_uuid: 42b598d9425641eebec7dfac373bf531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744387434877
+status: 3
+tags: []
+user_id: '91844'

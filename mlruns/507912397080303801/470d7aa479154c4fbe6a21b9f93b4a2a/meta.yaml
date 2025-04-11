@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/MLOps-Expreriments-With-MLFlow/mlruns/507912397080303801/470d7aa479154c4fbe6a21b9f93b4a2a/artifacts
+end_time: 1744387465379
+entry_point_name: ''
+experiment_id: '507912397080303801'
+lifecycle_stage: active
+run_id: 470d7aa479154c4fbe6a21b9f93b4a2a
+run_name: polite-elk-684
+run_uuid: 470d7aa479154c4fbe6a21b9f93b4a2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744387465084
+status: 3
+tags: []
+user_id: '91844'

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/MLOps-Expreriments-With-MLFlow/mlruns/507912397080303801/62b6b56e849948948878742a926c89db/artifacts
+end_time: 1744387465661
+entry_point_name: ''
+experiment_id: '507912397080303801'
+lifecycle_stage: active
+run_id: 62b6b56e849948948878742a926c89db
+run_name: charming-midge-556
+run_uuid: 62b6b56e849948948878742a926c89db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744387465449
+status: 3
+tags: []
+user_id: '91844'

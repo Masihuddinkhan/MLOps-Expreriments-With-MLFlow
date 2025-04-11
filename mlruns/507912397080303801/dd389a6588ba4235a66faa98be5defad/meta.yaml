@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/MLOps-Expreriments-With-MLFlow/mlruns/507912397080303801/dd389a6588ba4235a66faa98be5defad/artifacts
+end_time: 1744387461313
+entry_point_name: ''
+experiment_id: '507912397080303801'
+lifecycle_stage: active
+run_id: dd389a6588ba4235a66faa98be5defad
+run_name: languid-shrike-823
+run_uuid: dd389a6588ba4235a66faa98be5defad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744387460992
+status: 3
+tags: []
+user_id: '91844'
