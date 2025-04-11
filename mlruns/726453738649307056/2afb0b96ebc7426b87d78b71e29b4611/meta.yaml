@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/726453738649307056/2afb0b96ebc7426b87d78b71e29b4611/artifacts
+end_time: 1744367832901
+entry_point_name: ''
+experiment_id: '726453738649307056'
+lifecycle_stage: active
+run_id: 2afb0b96ebc7426b87d78b71e29b4611
+run_name: bustling-skink-110
+run_uuid: 2afb0b96ebc7426b87d78b71e29b4611
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744367831749
+status: 3
+tags: []
+user_id: '91844'

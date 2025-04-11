@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fc41c11a405e40c1b5fce434dc61a22c/artifacts
+end_time: 1744367148913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc41c11a405e40c1b5fce434dc61a22c
+run_name: youthful-fish-341
+run_uuid: fc41c11a405e40c1b5fce434dc61a22c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744367139826
+status: 3
+tags: []
+user_id: '91844'

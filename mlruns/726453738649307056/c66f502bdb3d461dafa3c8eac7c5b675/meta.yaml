@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/726453738649307056/c66f502bdb3d461dafa3c8eac7c5b675/artifacts
+end_time: 1744368445239
+entry_point_name: ''
+experiment_id: '726453738649307056'
+lifecycle_stage: active
+run_id: c66f502bdb3d461dafa3c8eac7c5b675
+run_name: skittish-vole-87
+run_uuid: c66f502bdb3d461dafa3c8eac7c5b675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744368419185
+status: 3
+tags: []
+user_id: '91844'
